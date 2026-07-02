@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ananindeua.desenvolvimentodeapps.com/sitemap.xml
